@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Vansh Taneja</title>
+  <link href="https://vanshtaneja.com/"/>
+  <link rel="self" href="https://vanshtaneja.com/feed.xml"/>
+  <id>https://vanshtaneja.com/</id>
+  <updated>2026-10-05T05:03:11.612Z</updated>
+  <author><name>Vansh Taneja</name></author>
+
+</feed>
